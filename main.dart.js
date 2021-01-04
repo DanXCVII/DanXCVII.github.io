@@ -64310,7 +64310,7 @@ F.tU.prototype={
 am:function(){var s=null,r=t.i
 return new F.KE(new N.b5(s,t.Xu),H.a([D.dw(s)],t.Jw),new B.Vt(5),H.a([],r),new B.Vu(C.rs),H.a([],t.ZL),H.a([],r),H.a([H.a([],t.j0)],t.OT),H.a([],r),D.dw(s),D.dw(s),D.dw(s),D.dw(s),D.dw(s),D.dw(s),D.dw(s),D.dw(s),C.m)}}
 F.KE.prototype={
-G:function(a,b){var s,r,q,p,o,n,m=this,l=null,k=M.bF(l,new T.qK(P.afk(7,7),M.bF(l,l,P.at(C.a_.aP(25.5),0,0,0),l,l,l,l,l,l,l),l),l,l,new S.cQ(l,new X.AK(new L.n8("assets/assets/images/kitchen_background_table.jpg",l,l),C.tg),l,l,l,l,C.af),1/0,l,l,l,1/0),j=M.aol(l,l,new L.n8("images/icon_iOS.png",l,l)),i=L.aX("My RecipeBible",l,l,l,B.BQ(32),l),h=t.L
+G:function(a,b){var s,r,q,p,o,n,m=this,l=null,k=M.bF(l,new T.qK(P.afk(7,7),M.bF(l,l,P.at(C.a_.aP(25.5),0,0,0),l,l,l,l,l,l,l),l),l,l,new S.cQ(l,new X.AK(new L.n8("images/kitchen_background_table.jpg",l,l),C.tg),l,l,l,l,C.af),1/0,l,l,l,1/0),j=M.aol(l,l,new L.n8("images/icon_iOS.png",l,l)),i=L.aX("My RecipeBible",l,l,l,B.BQ(32),l),h=t.L
 L.an(b,C.o,h).toString
 s=L.aX("Here, you can type in the data of the recipe you want to import in the App. After filling out the necessary fields, click on save to generate the file, which you can import in the App.",l,l,l,l,C.iv)
 r=L.aX(L.an(b,C.o,h).gBb(),l,l,l,B.BQ(22),l)
