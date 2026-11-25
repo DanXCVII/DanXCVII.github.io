@@ -3,8 +3,8 @@
   "short_name": "Recipe Creator",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#FAF7F2",
-  "theme_color": "#A83211",
+  "background_color": "#FCFAF6",
+  "theme_color": "#30261E",
   "description": "Create import-ready recipes for My RecipeBible.",
   "icons": [{"src": "icons/icon.png", "sizes": "any", "type": "image/png"}]
 }
