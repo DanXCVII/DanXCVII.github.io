@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "url": "assets/AssetManifest.8670dd6f.bin",
+      "hash": "8670dd6f",
+      "size": 318,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/AssetManifest.bin.787835a6.json",
+      "hash": "787835a6",
+      "size": 426,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/FontManifest.56ab2b1f.json",
+      "hash": "56ab2b1f",
+      "size": 313,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/NOTICES.d1523326",
+      "hash": "d1523326",
+      "size": 1394545,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/PlayfairDisplay-VariableFont_wght.c40f2293.ttf",
+      "hash": "c40f2293",
+      "size": 300724,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/PlusJakartaSans-VariableFont_wght.89b3fb38.ttf",
+      "hash": "89b3fb38",
+      "size": 176288,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/images/logo.81dfd413.png",
+      "hash": "81dfd413",
+      "size": 1522380,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/fonts/MaterialIcons-Regular.79e7e6ce.otf",
+      "hash": "79e7e6ce",
+      "size": 2484,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/shaders/ink_sparkle.2dca5ab9.frag",
+      "hash": "2dca5ab9",
+      "size": 8890,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/shaders/stretch_effect.ab412f07.frag",
+      "hash": "ab412f07",
+      "size": 6737,
+      "urlHashed": true
+    },
+    {
+      "url": "flutter.js",
+      "hash": "d2e7708f",
+      "size": 13169,
+      "urlHashed": false
+    },
+    {
+      "url": "flutter_bootstrap.js",
+      "hash": "f21159d8",
+      "size": 14582,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/icon.png",
+      "hash": "81dfd413",
+      "size": 1522380,
+      "urlHashed": false
+    },
+    {
+      "url": "index.html",
+      "hash": "ab30d3c8",
+      "size": 15163,
+      "urlHashed": false
+    },
+    {
+      "url": "main.dart.d3f6683c.js",
+      "hash": "d3f6683c",
+      "size": 2750333,
+      "urlHashed": true
+    },
+    {
+      "url": "manifest.json",
+      "hash": "1f094bce",
+      "size": 333,
+      "urlHashed": false
+    },
+    {
+      "url": "version.json",
+      "hash": "ec6fa573",
+      "size": 130,
+      "urlHashed": false
+    }
+  ]
+}

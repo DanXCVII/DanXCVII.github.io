@@ -38,10 +38,10 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"4d35714800b9266b6693a58e1225ecd7e9e45ed7","wasmHashes":{"wimp.wasm":"01d9aac38a88f55db167d4318932f568a421a1a402b13585789bedecf5f731fd","webparagraph/canvaskit.wasm":"01f0337c620a2afe20b92578ab5ec8db8e5bb6eccdef751d30bac9d1d683988e","skwasm.wasm":"eee8d9962314004a929380cfcc44ccdec7319710647529265fb9abd3a05cc2a7","chromium/canvaskit.wasm":"e269e717aad848981ed07db8573b4f7923ccd557d2e696f2944f541f4ff3df9f","canvaskit.wasm":"f3c2ff164f324217ebe1d84900110e425c0195fc63f34e8b58de842a047e0c1c","skwasm_heavy.wasm":"7f038b46cf04e0237a80a506cfab62af7195d487a4a00949c99274737a88373b"},"builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+_flutter.buildConfig = {"engineRevision":"4d35714800b9266b6693a58e1225ecd7e9e45ed7","wasmHashes":{"wimp.wasm":"01d9aac38a88f55db167d4318932f568a421a1a402b13585789bedecf5f731fd","webparagraph/canvaskit.wasm":"01f0337c620a2afe20b92578ab5ec8db8e5bb6eccdef751d30bac9d1d683988e","skwasm.wasm":"eee8d9962314004a929380cfcc44ccdec7319710647529265fb9abd3a05cc2a7","chromium/canvaskit.wasm":"e269e717aad848981ed07db8573b4f7923ccd557d2e696f2944f541f4ff3df9f","canvaskit.wasm":"f3c2ff164f324217ebe1d84900110e425c0195fc63f34e8b58de842a047e0c1c","skwasm_heavy.wasm":"7f038b46cf04e0237a80a506cfab62af7195d487a4a00949c99274737a88373b"},"builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.d3f6683c.js"},{}],"assetManifest":"AssetManifest.bin.787835a6.json","fontManifest":"FontManifest.56ab2b1f.json","extraAssets":{"NOTICES":"NOTICES.d1523326","fonts/MaterialIcons-Regular.otf":"fonts/MaterialIcons-Regular.79e7e6ce.otf","shaders/ink_sparkle.frag":"shaders/ink_sparkle.2dca5ab9.frag","shaders/stretch_effect.frag":"shaders/stretch_effect.ab412f07.frag","FontManifest.json":"FontManifest.56ab2b1f.json","AssetManifest.bin":"AssetManifest.8670dd6f.bin"}};
 
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: "828723139" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
+    serviceWorkerVersion: "4043513788" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
   }
 });
